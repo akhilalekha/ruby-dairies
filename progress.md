@@ -1,3 +1,4 @@
+# Ruby Course
 ### Introduction (2/2) ✅
 
 - [x] How this course will work  - April 21, Tue 2026  
@@ -14,7 +15,14 @@
 - [ ] Methods    
 	- [x] Introduction  
 	- [x] Ruby's Built in Methods  
-	- [ ] Creating a method ☘️  
+	- [x] Creating a method  
+	- [x] Method names
+	- [x] Parameters and arguments
+	- [x] What methods return
+	- [x] Chaining methods ☘️
+	- [ ] Predicate methods
+	- [ ] Bang Methods
+	- [ ] Assignment
 - [ ] Debugging   
 - [ ] Basic Enumerable Methods  
 - [ ] Predicate Enumerable Methods  
