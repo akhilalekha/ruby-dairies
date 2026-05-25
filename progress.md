@@ -19,10 +19,13 @@
 	- [x] Method names
 	- [x] Parameters and arguments
 	- [x] What methods return
-	- [x] Chaining methods ☘️
-	- [ ] Predicate methods
-	- [ ] Bang Methods
+	- [x] Chaining methods 
+	- [x] Predicate methods
+	- [x] Bang Methods
 	- [ ] Assignment
+		- [ ] Ruby monstas method chapter ☘️
+		- [ ] Launchschool method chapter + exercises
+		- [ ] Exercises
 - [ ] Debugging   
 - [ ] Basic Enumerable Methods  
 - [ ] Predicate Enumerable Methods  
