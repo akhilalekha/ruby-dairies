@@ -23,8 +23,8 @@
 	- [x] Predicate methods
 	- [x] Bang Methods
 	- [ ] Assignment
-		- [ ] Ruby monstas method chapter ☘️
-		- [ ] Launchschool method chapter + exercises
+		- [x] Ruby monstas method chapter 
+		- [ ] Launchschool method chapter + exercises ☘️
 		- [ ] Exercises
 - [ ] Debugging   
 - [ ] Basic Enumerable Methods  
