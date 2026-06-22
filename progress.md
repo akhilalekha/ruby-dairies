@@ -22,11 +22,8 @@
 	- [x] Chaining methods 
 	- [x] Predicate methods
 	- [x] Bang Methods
-	- [ ] Assignment
-		- [x] Ruby monstas method chapter 
-		- [ ] Launchschool method chapter + exercises ☘️
-		- [ ] Exercises
-- [ ] Debugging   
+	- [x] Assignment 
+- [ ] Debugging ☘️
 - [ ] Basic Enumerable Methods  
 - [ ] Predicate Enumerable Methods  
 - [ ] Nested Collections  
